@@ -1,8 +1,9 @@
-# layout: post
-# title: Introducing the Stories 
-# date: 2019-06-27 
-# categories: detangling the stories
-06-27-2019
+---
+#layout: post
+#title: detangling the stories  
+#date: 2019-06-27 
+#categories: detangling the stories
+---
 
 I am Zahava M Beet. I grew up in Washington, DC, attended school in Brooklyn New York, and currently live in St. Petersburg, Fl; where I had never visited until the day I moved in. I moved here in a state of crisis, but I know that's misleading if you don't understand the role chaos and crisis has played in my daily life. 
 
