@@ -1,7 +1,7 @@
-layout: post
-title: Introducing the Stories 
-date: 2019-06-27 
-categories: detangling the stories
+#layout: post
+#title: Introducing the Stories 
+#date: 2019-06-27 
+#categories: detangling the stories
 06-27-2019
 
 I am Zahava M Beet, I grew up in Washington, DC, attended school in Brooklyn New York, and currently live in St. Petersburg, Fl; where I had never visited until the day I moved in. I moved here in a state of crisis, but I know that's misleading if you don't understand the role chaos and crisis has played in my daily life. 
@@ -38,7 +38,4 @@ Through the writing of this blog, I hope to untangle some of these processes by 
 
 -Zahava 
 
-
-
-This section of my blog will talk about overall health. This post addressed physical health and some of the ramifications on mental health, other posts will talk more directly about mental health as well as more politically with the medical industry and state of pain management in our country. 
 
